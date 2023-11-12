@@ -3,7 +3,7 @@
 
 {
     'name': 'Accounting Print Journal Entries Report in Odoo',
-    'version': '16.0.0.2',
+    'version': '17.0.0.0',
     'category': 'Account',
     'license': 'OPL-1',
     'summary': 'Allow to print pdf report of Journal Entries in Accounting.',
