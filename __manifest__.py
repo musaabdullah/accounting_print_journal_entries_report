@@ -17,8 +17,8 @@
     'author': 'Musa Abdullah',
     'depends': ['base','account'],
     'data': [
-            'report/accounting_print_report_journal_entries.xml',
             'report/accounting_print_report_journal_entries_view.xml',
+            'report/accounting_print_report_report_journal_entries.xml',
     ],
     'installable': True,
     'auto_install': False,
